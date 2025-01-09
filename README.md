@@ -15,3 +15,7 @@ Mỗi tháng, chọn tài sản dựa trên cụm và tạo danh mục đầu t�
 
 Trực quan hóa lợi nhuận danh mục đầu tư và so sánh với lợi nhuận của S&P 500.
 
+Các thư viện cần thiết: 
+pandas, numpy, matplotlib, statsmodels, pandas_datareader, datetime, yfinance, sklearn, PyPortfolioOpt
+
+Các ý tưởng chiến lược trong project đều được tham khảo trong project https://github.com/Luchkata/Algorithmic_Trading_Machine_Learning
